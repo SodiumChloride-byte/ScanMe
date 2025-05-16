@@ -11,3 +11,4 @@ A simple Python-based network scanner inspired by Nmap. Performs host discovery,
 ## 🛠️ Usage
 ```bash
 python -m cli.main --host 192.168.1.1 --ports 20-80
+
